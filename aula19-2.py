@@ -45,7 +45,7 @@
 
 #----------------------------------------------------------
 
-#declaração globa e local 
+#declaração global e local 
 #Recursividade
 #fib
 
